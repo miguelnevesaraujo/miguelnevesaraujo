@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Miguel 👋
 
-<!--
-**miguelnevesaraujo/miguelnevesaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Graduate  
+📊 Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I'm currently building practical data analytics projects focused on transforming data into meaningful business insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- SQL / SQL Server
+- Python / Pandas / Matplotlib
+- Power BI / DAX
+- Excel
+- Data Analysis & Visualization
+- Git / GitHub
+
+## 📂 Featured Project
+
+### AdventureWorks Sales Analytics
+
+A data analytics project using SQL Server, Python and Power BI to analyze sales performance, products, customers and territories.
+
+**Tools:** SQL Server • Python • Pandas • Power BI • Matplotlib
+
+## 🎯 Currently
+
+- Building my Data Analytics portfolio
+- Improving my SQL and Python skills
+- Developing Power BI dashboards
+- Looking for opportunities in Data Analytics and Business Intelligence
