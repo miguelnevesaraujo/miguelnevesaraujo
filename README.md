@@ -5,8 +5,6 @@
 
 I'm currently building practical data analytics projects focused on transforming data into meaningful business insights.
 
-[LinkedIn](www.linkedin.com/in/miguel-araújo-552825441)
-
 ## 🛠️ Skills
 
 - SQL / SQL Server
