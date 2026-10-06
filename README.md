@@ -5,7 +5,7 @@
 
 I'm currently building practical data analytics projects focused on transforming data into meaningful business insights.
 
-www.linkedin.com/in/miguel-araújo-552825441
+[LinkedIn](www.linkedin.com/in/miguel-araújo-552825441)
 
 ## 🛠️ Skills
 
@@ -20,7 +20,7 @@ www.linkedin.com/in/miguel-araújo-552825441
 
 ### AdventureWorks Sales Analytics
 
-https://github.com/miguelnevesaraujo/adventureworks-sales-analytics
+[View Project](https://github.com/miguelnevesaraujo/adventureworks-sales-analytics)
 
 A data analytics project using SQL Server, Python and Power BI to analyze sales performance, products, customers and territories.
 
