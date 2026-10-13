@@ -1,6 +1,6 @@
 # Hi, I'm Miguel 👋
 
-🎓 Computer Engineering Graduate  
+🎓 Computer Engineer  
 📊 Aspiring Data Analyst
 
 I'm currently building practical data analytics projects focused on transforming data into meaningful business insights.
