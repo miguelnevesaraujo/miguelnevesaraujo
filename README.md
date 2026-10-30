@@ -32,13 +32,11 @@ The project combines SQL-based data exploration, Python analysis and interactive
 
 [View Project](https://github.com/miguelnevesaraujo/urban-mobility-data-pipeline)
 
-My first hands-on Data Engineering project, expanding my skills into data pipelines, infrastructure, and data processing.
+My first hands-on Data Engineering project, focused on building an automated pipeline for collecting, processing, storing and analyzing New York City's Citi Bike data.
 
-The project focuses on developing an automated pipeline for collecting, processing, storing and analyzing New York City's Citi Bike data. It includes API data ingestion, containerized infrastructure with Docker, local Azure Blob Storage emulation, PostgreSQL and efficient processing of historical trip data using Parquet.
+The project features automated API ingestion, incremental PostgreSQL loading, dbt transformations with 30 data quality tests and Apache Airflow orchestration. It also includes Azure-compatible local storage using Azurite, historical trip processing with Parquet, an interactive Streamlit dashboard and automated CI testing with GitHub Actions.
 
-**Technologies implemented:** Python · Pandas · PyArrow · Docker · PostgreSQL · Azurite · Parquet
-
-**Planned additions:** dbt · Apache Airflow · GitHub Actions · Streamlit
+**Tools:** Python · SQL · Pandas · PyArrow · PostgreSQL · dbt · Apache Airflow · Docker · Azurite · Parquet · Streamlit · Plotly · pytest · GitHub Actions
 
 ## 🎯 Currently
 
