@@ -16,7 +16,7 @@ Expanding skills in Data Engineering, focusing on data pipelines, database syste
 - **Data Engineering:** Data Ingestion, ETL/ELT Concepts, Parquet
 - **Tools & Infrastructure:** Git, GitHub, Docker, Docker Compose
 
-## 📂 Featured Project
+## 📂 Featured Projects
 
 ### AdventureWorks Sales Analytics
 
